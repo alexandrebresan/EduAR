@@ -12,10 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd4174b9ed0f0d04ead070268bd1b70e, type: 3}
   m_Name: MarsQuestion
   m_EditorClassIdentifier: Assembly-CSharp::Question
-  questionText: "Qual \xE9 o maior vulc\xE3o conhecido do Sistema Solar?"
+  questionText: "Qual \xE9 a principal caracter\xEDstica que d\xE1 a Marte sua famosa
+    colora\xE7\xE3o avermelhada?"
   alternatives:
-  - Monte Everest
-  - Olympus Mons
-  - Mauna Loa
-  - Monte FUji
+  - "Presen\xE7a de \xE1gua l\xEDquida"
+  - "\xD3xido de ferro na superf\xEDcie"
+  - "Grande quantidade de oxig\xEAnio"
+  - "Gases vulc\xE2nicos"
   correctAnswer: 1
